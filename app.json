@@ -19,7 +19,7 @@
     },
     "GDRIVE_FOLDER_ID": {
       "description": "Google Drive Folder ID to Clone to. (Dont paste a link)",
-      "value": "12j9HcwbCJKiZ2th5cUUf-m1fpNfb9g_j",
+      "value": "10EeGabeTG9WjOB2lIy1O8sMEHwi_qdjZ",
       "required": true
     },
     "OWNER_ID": {
